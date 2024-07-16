@@ -1,4 +1,4 @@
-###Tier List App
+# Tier List App
 
 
 Overview
