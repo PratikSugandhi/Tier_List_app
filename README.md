@@ -11,7 +11,7 @@ Drag and Drop Functionality: Easily drag images into the appropriate tier.
 Reset Position: Double-click an image in a tier to move it back to its original location.
 Screenshots
 
-![Screenshot](.Image/1.png)
+![Screenshot](.Images/1.png)
 
 
 
