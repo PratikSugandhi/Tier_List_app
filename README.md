@@ -10,7 +10,8 @@ Image Upload: Paste an image URL to render it in the app.
 Drag and Drop Functionality: Easily drag images into the appropriate tier.
 Reset Position: Double-click an image in a tier to move it back to its original location.
 Screenshots
-(Add your screenshots here)
+
+![Screenshot](.Image/1.png)
 
 
 
