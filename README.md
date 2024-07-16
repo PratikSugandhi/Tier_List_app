@@ -12,7 +12,10 @@ Reset Position: Double-click an image in a tier to move it back to its original 
 Screenshots
 
 ![Screenshot](Images/1.png)
-
+![Screenshot](Images/2.png)
+![Screenshot](Images/3.png)
+![Screenshot](Images/4.png)
+![Screenshot](Images/5.png)
 
 
 Technologies Used
